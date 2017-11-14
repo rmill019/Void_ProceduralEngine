@@ -1,0 +1,112 @@
+{
+	"Models":	[
+		{
+			"name0":"Plate",
+			"name1":"Spoon",
+			"name2":"Trowel",
+			"name3":"Pot",
+			"name4":"Chair",
+			"name5":"Cup",
+			"name6":"Desk",
+			"name7":"Jug",
+			"name8":"Lamp",
+			"name9":"Sink"
+		}
+	],
+
+	"Descriptions":	[
+		{
+			"Plate": [
+				{
+					"desc0":"Regular dull plate.",
+					"desc1":"Expensive looking plate with gold lining.",
+					"desc2":"Chipped plate with what appears to be dried blood stains."
+				}
+			],
+
+			"Spoon": [
+				{
+					"desc0":"Bent spoon from the Matrix.",
+					"desc1":"Wooden spoon used by Geralt in the Witcher 3.",
+					"desc2":"Super sci-fi looking spoon which is standard issue in the VOID universe."
+				}
+			],
+
+			"Trowel": [
+				{
+					"desc0":"Standard stainless steel trowel used by the cook.",
+					"desc1":"A dirty trowel that seems to have been forgotten about. Has begun to grow mold.",
+					"desc2":"Stainless steel trowel that seems to have a large dent. As if it struck something with great force."
+				}
+			],
+
+			"Pot": [
+				{
+					"desc0":"Standard pot used to hold household plants.",
+					"desc1":"Regular looking pot that has a false bottom serving as a hidden compartment.",
+					"desc2":"Shattered pot with hardened dirt stains."
+				}
+			],
+
+			"Chair": [
+				{
+					"desc0":"Constructed from choice hardwoods, painted and lacquered, and then topped with a comfortable vinyl upholstered seat.",
+					"desc1":"Classic style Windsor Chair is built from solid wood providing great quality classic style Windsor Chair is built from solid wood providing great quality.",
+					"desc2":"Made of wood and hand-finished to give it a burnished antique look."
+				}
+			],
+
+			"Cup": [
+				{
+					"desc0":" These BPA Free cups have a wide base for extra stability and are designed for small hands.",
+					"desc1":"Made of durable PETE plastic, the stylish goblet is constructed to last the length of an entire event or party.",
+					"desc2":"Standard mug from Unity Asset Package."
+				}
+			],
+
+			"Desk": [
+				{
+					"desc0":"Sturdy looking desk that was used by the Pilot on her home planet.",
+					"desc1":"An old table used by the crew to play Galactic Beer Pong.",
+					"desc2":"Suspicious looking table that is plotting your demise as we speak."
+				}
+			],
+
+			"Jug": [
+				{
+					"desc0":"The cook's favorite Jug. He uses it at all the feasts.",
+					"desc1":"Standard issue Federation Jug. Nothing special about it.",
+					"desc2":"An undercover pitcher posing as a Jug."
+				}
+			],
+
+			"Lamp": [
+				{
+					"desc0":"Old lamp that used to hang in the living quarters.",
+					"desc1":"Broken lamp that has been stored in cargo for too long.",
+					"desc2":"The medic's favorite lamp. The warm lighting reminds her of home."
+				}
+			],
+
+			"Sink": [
+				{
+					"desc0":"Old sink that used to be used in the Kitchen until the new budget allowed for a new sink.",
+					"desc1":"The new sink that the crew bought with the increased budget that replaced the old sink.",
+					"desc2":"A third sink that nobody remembers buying."
+				}
+			]
+		}
+	],
+
+	"Rooms": [
+		{
+			"room0":"Med-bay",
+			"room1":"Kitchen",
+			"room2":"The Bridge",
+			"room3":"LivingQuarters",
+			"room4":"Engineering",
+			"room5":"Cockpit",
+			"room6":"The Brig"
+		}
+	]
+}
